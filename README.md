@@ -2,8 +2,12 @@
 - step 1: Create React App.
 - step 2: Configure Tailwindcss into App, using framework guidelines from documentation.
 - step 3: Start building your project.
-- step 4: Plan your project, by knowing which features to implement
-    # fatures
+- step 4: Plan your project, by knowing which features to implement.
+- step 5: Build header with black gradient.
+- step 6: Build Login form
+- step 7: Build a Sign Up form
+
+    # Features
     i.  Login/Sign Up Page
         -Sign In/Sign Up form
         -Redirect to Browse Page (once authentication is successful) 
